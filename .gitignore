@@ -32,6 +32,11 @@ coverage/
 *.xml
 *.lcov
 
+Documentation
+docs/_build/
+docs/_static/
+docs/_templates/
+
 Miscellaneous
 *.log
 *.swp
