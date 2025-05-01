@@ -46,3 +46,4 @@ Miscellaneous
 *.env
 .env
 *.local
+/.idea/
